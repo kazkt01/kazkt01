@@ -1,4 +1,6 @@
 <h1 align="center">Hi, I'm Kazuki Tachibana 👋</h1>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kazkt01&theme=radical" />
-</p>
+
+![Tech Stack](https://skillicons.dev/icons?i=js,typescript,react,nodejs,python,docker)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PublicBoy01&layout=donut)](https://github.com/PublicBoy01/github-readme-stats)
+
