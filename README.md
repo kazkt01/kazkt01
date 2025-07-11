@@ -6,6 +6,6 @@
 
 ![GitHub Snake Light](https://github.com/kazkt01/kazkt01/blob/output/github-snake.svg)
 
-![GitHub Snake Dark](https://github.com/kazkt01/kazkt01/blob/output/github-snake-dark.svg?palette=github-dark)
+
 
 
