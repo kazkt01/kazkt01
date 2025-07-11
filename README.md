@@ -4,9 +4,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PublicBoy01&layout=donut)](https://github.com/PublicBoy01/github-readme-stats)
 
+![GitHub Snake Light](https://github.com/kazkt01/kazkt01/blob/output/github-snake.svg)
 
-![GitHub Snake Light](https://github.com/あなたのユーザー名/あなたのユーザー名/blob/output/github-snake.svg)
-
-![GitHub Snake Dark](https://github.com/あなたのユーザー名/あなたのユーザー名/blob/output/github-snake-dark.svg)
+![GitHub Snake Dark](https://github.com/kazkt01/kazkt01/blob/output/github-snake-dark.svg?palette=github-dark)
 
 
