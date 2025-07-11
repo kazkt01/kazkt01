@@ -4,3 +4,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PublicBoy01&layout=donut)](https://github.com/PublicBoy01/github-readme-stats)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake.svg" />
+</picture>
