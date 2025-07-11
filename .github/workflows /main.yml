@@ -2,23 +2,28 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # 毎日0時に実行
-  workflow_dispatch:      # 手動実行も可能
+    - cron: "0 0 * * *" # 毎日0時に自動で実行
+  workflow_dispatch:     # GitHub Actions画面から手動実行も可能
 
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: Platane/snk@v3
+      - name: Generate snake animation SVG
+        uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: PublicBoy01
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake.svg
-            dist/github-snake-dark.svg
+            dist/github-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Push generated files
-        uses: peaceiris/actions-gh-pages@v3
+      - name: Push to the `output` branch
+        uses: crazy-max/ghaction-github-pages@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
-          publish_branch: output  # 👈 output ブランチに SVG を push
+          target_branch: output
+          build_dir: dist
+        env:
+          ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
