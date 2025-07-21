@@ -8,8 +8,12 @@
 
 ![Tech Stack](https://skillicons.dev/icons?i=js,typescript,react,next,nodejs,python,docker)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PublicBoy01&layout=donut)](https://github.com/PublicBoy01/github-readme-stats)
+<div>
+<!-- ![Kazuki's GitHub stats](https://github-readme-stats.vercel.app/api?username=kazkt01&show_icons=true&theme=transparent) -->
+  
+</div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PublicBoy01&layout=donut)](https://github.com/PublicBoy01/github-readme-stats) 
 
 
 
