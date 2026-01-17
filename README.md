@@ -8,7 +8,9 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kazkt01/kazkt01/output/github-contribution-grid-snake.svg">
 </picture>
 
-
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJqZnd4ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Animation" />
+</p>
 
 
 
