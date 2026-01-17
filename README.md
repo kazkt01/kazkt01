@@ -1,20 +1,35 @@
-<h1 align="center">Hi, I'm kazkt01👋</h1>
-<!-- <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00E7FF&center=true&vCenter=true&width=800&lines=Full-stack+Web+Engineer;Creative+Coder+%26+3DCG+Artist;Next.js+%7C+Supabase+%7C+AWS;Technology+%2B+Design+%2B+Music" />
-</p> -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kazkt01/kazkt01/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kazkt01/kazkt01/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kazkt01/kazkt01/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  <h1>Hi, I'm kazkt01 👋</h1>
+</div>
 
-<p align="center">
-  <img src="https://media1.tenor.com/m/g3y2q5VQxvAAAAAd/cat-computer.gif" />
-</p>
+<br />
 
-01001101 01111001 00100000 01101000 01101111 01100010 01100010 01111001 00100000 01101001 01110011 00100000 01110111 01100001 01101100 01101011 01101001 01101110 01100111 00101110
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kazkt01/kazkt01/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kazkt01/kazkt01/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kazkt01/kazkt01/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
+<br />
+<br />
 
-
-
-
+<div align="center">
+  <img src="https://media1.tenor.com/m/g3y2q5VQxvAAAAAd/cat-computer.gif" width="180" />
+  
+  <h3 style="margin-top: 0px; margin-bottom: 10px;">📎 TOOLS LINK</h3>
+  
+  <div style="display: flex; justify-content: center; gap: 8px; flex-wrap: wrap;">
+    <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"></a>
+    <a href="https://www.pinterest.jp/"><img src="https://img.shields.io/badge/-Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest"></a>
+    <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"></a>
+    <a href="https://vercel.com/"><img src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"></a>
+    <a href="https://supabase.com/"><img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"></a>
+    <a href="https://firebase.google.com/"><img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"></a>
+    <a href="https://stripe.com/"><img src="https://img.shields.io/badge/-Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe"></a>
+    <a href="https://www.postman.com/"><img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"></a>
+    <a href="https://qiita.com/"><img src="https://img.shields.io/badge/-Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white" alt="Qiita"></a>
+  </div>
+</div>
+<br />
