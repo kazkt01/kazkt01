@@ -9,7 +9,7 @@
 </picture>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJqZnd4ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Animation" />
+  <img src="https://media1.tenor.com/m/g3y2q5VQxvAAAAAd/cat-computer.gif" />
 </p>
 
 
