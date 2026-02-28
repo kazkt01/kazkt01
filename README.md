@@ -28,6 +28,8 @@
     <a href="https://supabase.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"></a>
     <a href="https://firebase.google.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"></a>
     <a href="https://aws.amazon.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"></a>
+    <a href="https://www.cloudflare.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare"></a>
   </div>
 </div>
+
 <br />
