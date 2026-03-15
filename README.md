@@ -38,11 +38,11 @@
 <br />
 
 <div align="center">
-  <h3>📈 GOOGLE TOOLS</h3>
+  <h3>📈 GOOGLE MONETIZATION & SEO</h3>
   
   <div style="display: flex; justify-content: center; gap: 6px; flex-wrap: wrap;">
-    <a href="https://search.google.com/search-console/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Google%20Search%20Console-458CF5?style=for-the-badge&logo=google&logoColor=white" alt="Google Search Console"></a>
-    <a href="https://ads.google.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Google%20Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white" alt="Google Ads"></a>
+    <a href="https://search.google.com/search-console/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Search%20Console-458CF5?style=for-the-badge&logo=google&logoColor=white" alt="Google Search Console"></a>
+    <a href="https://www.google.com/adsense/start/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Google%20AdSense-5F6368?style=for-the-badge&logo=googleadsense&logoColor=white" alt="Google AdSense"></a>
     <a href="https://analytics.google.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Google Analytics"></a>
   </div>
 </div>
