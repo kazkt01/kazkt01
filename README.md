@@ -21,14 +21,29 @@
     <a href="https://www.pinterest.jp/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest"></a>
     <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"></a>
     <a href="https://www.heroui.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-HeroUI-000000?style=for-the-badge&logoColor=white" alt="HeroUI"></a>
+    <a href="https://mui.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="MUI"></a>
+    <a href="https://ui.shadcn.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-shadcn%2Fui-000000?style=for-the-badge&logoColor=white" alt="shadcn/ui"></a>
     <a href="https://vercel.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"></a>
     <a href="https://qiita.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white" alt="Qiita"></a>
     <a href="https://www.postman.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"></a>
     <a href="https://stripe.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe"></a>
     <a href="https://supabase.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"></a>
+    <a href="https://neon.tech/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Neon-00E699?style=for-the-badge&logo=neon&logoColor=black" alt="Neon"></a>
     <a href="https://firebase.google.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"></a>
     <a href="https://aws.amazon.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"></a>
     <a href="https://www.cloudflare.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare"></a>
+  </div>
+</div>
+
+<br />
+
+<div align="center">
+  <h3>📈 GOOGLE TOOLS</h3>
+  
+  <div style="display: flex; justify-content: center; gap: 6px; flex-wrap: wrap;">
+    <a href="https://search.google.com/search-console/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Google%20Search%20Console-458CF5?style=for-the-badge&logo=google&logoColor=white" alt="Google Search Console"></a>
+    <a href="https://ads.google.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Google%20Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white" alt="Google Ads"></a>
+    <a href="https://analytics.google.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Google Analytics"></a>
   </div>
 </div>
 
